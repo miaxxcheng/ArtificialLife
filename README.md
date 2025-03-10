@@ -152,12 +152,6 @@ elif options.shape == 4:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - This project is inspired by the work on differentiable physics and soft robotics.
