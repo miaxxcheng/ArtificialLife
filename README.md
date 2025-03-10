@@ -48,7 +48,6 @@ This project implements a **Differentiable Material Point Method (MPM)** simulat
 - NumPy (`pip install numpy`)
 - Matplotlib (`pip install matplotlib`)
 - `noise` library (`pip install noise`)
-- `svgpathtools` (`pip install svgpathtools`)
 
 ### Running the Code
 1. Clone the repository or download the script.
