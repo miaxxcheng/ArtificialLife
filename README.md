@@ -50,9 +50,10 @@ This project implements a **Differentiable Material Point Method (MPM)** simulat
 - `noise` library (`pip install noise`)
 
 ### Running the Code
-1. Clone the repository or download the script.
+1. Clone the difftaichi repository and then download this script.
 2. Install the required dependencies.
-3. Run the script with the desired command-line arguments.
+3. Insert this script into the difftaichi repository
+4. Run the script with the desired command-line arguments.
 
 Example:
 ```bash
